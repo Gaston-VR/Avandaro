@@ -1,0 +1,28 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_150F4D03_1CA7_1DFD_41BD_EC6F65A833C5.label = Avandaro_PA_01
+panorama_14F6E311_1CA7_041D_41B1_30D8BE33ECCC.label = Avandaro_PA_02
+panorama_1489B631_1CA7_0C1C_4186_058D3B5C5D86.label = Avandaro_PA_03
+panorama_1489796D_1CA7_0405_4194_8DEF109F6AAF.label = Avandaro_PA_04
+panorama_0D11BE7C_1C59_3C0B_41A3_CDBA69385438.label = Avandaro_PA_05
+panorama_148665DD_1CA9_0C05_41BB_B4D673A668EB.label = Avandaro_PA_06
+panorama_0EC0A2A6_1C59_0407_41B6_0665CB92542B.label = Avandaro_PA_07
+panorama_0EC0C64C_1C59_0C0B_4181_77DDF877B12A.label = Avandaro_PA_08
+panorama_148698F1_1CA9_041D_41B0_1EFC97B81A4F.label = Avandaro_PB_01
+panorama_14867C0C_1CA9_1C04_41AB_9F151BDBA3D3.label = Avandaro_PB_02
+panorama_1486DF3C_1CA9_1C0B_41BA_E25D854BB9AF.label = Avandaro_PB_03
+panorama_1486B240_1CA9_047B_41A8_7015DA1B882F.label = Avandaro_PB_04
+panorama_1486F55B_1CA9_0C0D_41B7_CA3B6EC5166A.label = Avandaro_PB_05
+panorama_1486D86B_1CA9_040D_4164_E3DB51FF0AD6.label = Avandaro_PB_06
+panorama_14871B7F_1CA9_0405_41B3_BC1863CF375D.label = Avandaro_PB_07
+panorama_14871E9A_1CA9_3C0C_41B5_E5DB00037192.label = Avandaro_PB_08
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 36-Mariano Rossi-Avandaro
